@@ -11,7 +11,7 @@ words = [
     "Funny",
     "Joker",
     "Inquisitive",
-    "Flexible",
+    "Edible",
     "Phenomenal"
 ]
 
